@@ -1,0 +1,15 @@
+#Mon Sep 09 16:30:17 CST 2013
+eclipse.preferences.version=1
+encoding//analysis/__init__.py=utf-8
+encoding//analysis/analysisClassify_jd.py=utf-8
+encoding//analysis/analysisItems_jd.py=utf-8
+encoding//analysis/analysisNextUrl_jd.py=utf-8
+encoding//db/db.py=utf-8
+encoding//db/db_func.py=gbk
+encoding//kernel/getHtml.py=utf-8
+encoding//kernel/getPicture.py=utf-8
+encoding//log_data/log_data.py=utf-8
+encoding//log_data/log_type.py=utf-8
+encoding//utility/queueUtility/queueFactory.py=utf-8
+encoding/getHtml.py=utf-8
+encoding/startme.py=utf-8
